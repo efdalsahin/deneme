@@ -10,17 +10,6 @@ export default function Footer() {
         </a>
       </div>
       <hr className="h-[2px] bg-black" />
-      <div className="flex justify-end">
-        <a
-          className="transition-colors hover:text-red-500"
-          to="chart"
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://www.linkedin.com/in/muhammet-efdal-%C5%9Fahin-aa19101b7/?trk=public_profile_browsemap_profile-result-card_result-card_full-click&originalSubdomain=tr"
-        >
-          Created By: Muhammet Efdal ŞAHİN
-        </a>
-      </div>
     </footer>
   );
 }
